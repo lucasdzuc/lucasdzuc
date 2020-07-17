@@ -3,7 +3,10 @@
 
 Seja bem vindo ao meu perfil!
 
-[![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/LucasMoraiisAn)
+![](https://img.shields.io/badge/-Lucas_Andrade-0077b5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-andrade-322634a8/)
+
+
+
 
 
 <!--
