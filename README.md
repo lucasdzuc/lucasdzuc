@@ -1,4 +1,8 @@
-### Hi there 👋
+## Lucas Andrade 
+
+
+Seja bem vindo ao meu perfil!
+
 
 <!--
 **lucasdzuc/lucasdzuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
