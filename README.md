@@ -5,7 +5,7 @@ Seja bem vindo ao meu perfil!
 
 ![](https://img.shields.io/badge/-Lucas_Andrade-0077b5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-andrade-322634a8/)
 ![](https://img.shields.io/badge/-lucasdzuc-ea4c89?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.linkedin.com/in/lucas-andrade-322634a8/)
-![](https://img.shields.io/badge/-luhmb-black?style=flat-square&logo=Flickr&logoColor=white&link=https://www.linkedin.com/in/lucas-andrade-322634a8/)
+![](https://img.shields.io/badge/-lucas-black?style=flat-square&logo=Flickr&logoColor=white&link=https://www.linkedin.com/in/lucas-andrade-322634a8/)
 
 
 
