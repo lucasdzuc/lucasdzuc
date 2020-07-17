@@ -3,6 +3,8 @@
 
 Seja bem vindo ao meu perfil!
 
+[![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/LucasMoraiisAn)
+
 
 <!--
 **lucasdzuc/lucasdzuc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
