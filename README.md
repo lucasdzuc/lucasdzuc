@@ -11,7 +11,7 @@ Seja bem vindo ao meu perfil!
 -->
 
 
-![](https://img.shields.io/badge/-lda_designer-c13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lda.designer/)
+![Instagram](https://img.shields.io/badge/-lda.designer-c13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/lda.designer/)
 
 
 
