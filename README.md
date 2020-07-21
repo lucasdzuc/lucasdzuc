@@ -10,9 +10,7 @@ Seja bem vindo ao meu perfil!
 
 [<img src="https://github-readme-stats.vercel.app/api?username=lucasdzuc&amp;hide=%5B%22issues%22,%22prs%22,%22contribs%22%5D&amp;show_icons=true&amp;theme=default" >](https://github.com/lucasdzuc/)
 
-<!--
-[![](https://img.shields.io/badge/-Lucas_Andrade-6633cc?style=flat-square&labelColor=6633cc&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-andrade-322634a8/)
--->
+
 
 
 
@@ -30,4 +28,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+<!--
+[![](https://img.shields.io/badge/-Lucas_Andrade-6633cc?style=flat-square&labelColor=6633cc&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-andrade-322634a8/)
 -->
