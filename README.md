@@ -1,7 +1,7 @@
 ## Lucas Andrade 
 
 
-Seja bem vindo ao meu perfil!
+Seja bem-vindo(a) ao meu perfil!
 
 [![](https://visitor-badge.glitch.me/badge?page_id=lucasdzuc.visitor-badge)](https://github.com/lucasdzuc)
 [![](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-andrade-322634a8)
