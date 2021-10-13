@@ -18,7 +18,13 @@ Seja bem-vindo(a) ao meu perfil!
   <img align="center" alt="Ro-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="Ro-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Ro-React" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img  align="center" alt="Ro-node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img  align="center" alt="Ro-node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> 
+  <br>
+  <br>
+  
+  <img  align="center" alt="Ro-figma" src="https://img.shields.io/badge/Figma-a259ff?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img  align="center" alt="Ro-illustrator" src="https://img.shields.io/badge/Illustrator-ff9b00?style=for-the-badge&logo=AdobeIllustrator&logoColor=white"/>
+  <img  align="center" alt="Ro-photoshop" src="https://img.shields.io/badge/Photoshop-00c8ff?style=for-the-badge&logo=AdobePhotoshop&logoColor=white"/>
   
  <br/>
  <br/>
